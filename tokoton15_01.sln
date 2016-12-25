@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tokoton15_01", "tokoton15_01\tokoton15_01.csproj", "{5F95A345-8773-42C0-BF5E-94F254A819AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tokoton15_02", "tokoton15_02\tokoton15_02.csproj", "{5F264A64-D3E5-471B-B9B1-7C5C203736BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tokoton15_03", "tokoton15_03\tokoton15_03.csproj", "{5957FC65-0E9F-4B13-8E5D-FCB615E7C084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tokoton15_04", "tokoton15_04\tokoton15_04.csproj", "{73A8718E-2870-4A85-A3EB-142D9C03710B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F95A345-8773-42C0-BF5E-94F254A819AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F95A345-8773-42C0-BF5E-94F254A819AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F95A345-8773-42C0-BF5E-94F254A819AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F95A345-8773-42C0-BF5E-94F254A819AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F264A64-D3E5-471B-B9B1-7C5C203736BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F264A64-D3E5-471B-B9B1-7C5C203736BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F264A64-D3E5-471B-B9B1-7C5C203736BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F264A64-D3E5-471B-B9B1-7C5C203736BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5957FC65-0E9F-4B13-8E5D-FCB615E7C084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5957FC65-0E9F-4B13-8E5D-FCB615E7C084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5957FC65-0E9F-4B13-8E5D-FCB615E7C084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5957FC65-0E9F-4B13-8E5D-FCB615E7C084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A8718E-2870-4A85-A3EB-142D9C03710B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A8718E-2870-4A85-A3EB-142D9C03710B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A8718E-2870-4A85-A3EB-142D9C03710B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A8718E-2870-4A85-A3EB-142D9C03710B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
